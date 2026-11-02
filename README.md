@@ -115,7 +115,7 @@
 | 电视屏幕大师 | v2.3.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/电视屏幕大师_2.3.0.apk) | 🟢 | 一款用于电视全面检测屏幕的软件，拥有清晰度测试、灰度测试、色彩测试、坏点测试等功能。 |
 | 欢视助手 | v1.0.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/欢视助手_1.0.0.apk) | 🟢 | 和野草助手一样是一款可以方便用户快捷的在电视端安装应用的应用工具，可以访问：[https://zhushou.huan.tv](https://zhushou.huan.tv) 上传应用，也可以在微信小程序**欢视助手**上传分享。 |
 | PeekPro | v1.5.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/PeekPro) | 🟢 | 羊佬最新力作，FM二开，颜控必备，支持弹幕。 |
-| NewBox | v2.1.2 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/NewBox) | 🟢 | 基于黑壳tvbox魔改，支持多仓，支持手机版。 |
+| NewBox | v2.1.5 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/NewBox) | 🟢 | 基于黑壳tvbox魔改，支持多仓，支持手机版。 |
 | 影视魔改 | v6.4.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视魔改) | 🟢 | 基于FM魔改，支持手机、电视，支持实时语音字幕翻译 |
 | ...updating             |             |                                                              |      |                                                              |
 
