@@ -47,7 +47,7 @@
 | 隆庭KTV | v3.15.53 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/隆庭KTV3.15.53.2312271744.apk) | 🟢 | 同上都是一个类型的软件，注意如果有让你更新付费切勿相信！ |
 | 时光KTV | v4.15.63 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/时光KTV4.15.63.2401解锁终身会员.apk) | 🟢 | 同上都是一个类型的软件，注意如果有让你更新付费切勿相信！ |
 | 金调KTV | v20260520 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/金调KTV_20260520-去引流.apk) | 🟢 | 同上都是一个类型的软件，去除引流版 |
-| 麦动KTV | v2.1.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/麦动-2.1.7.apk) | 🟢 | 开源版的K歌软件，布局和上方类似，不用担心收费弹窗。 |
+| 麦动KTV | v2.1.10 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/麦动-2.1.10.apk) | 🟢 | 开源版的K歌软件，布局和上方类似，不用担心收费弹窗。 |
 | 观屿TV（VoyaTV） | v0.5.3 | [下载](/电视直播/观屿TV/README.md) | 🟢 | 安卓6.0及以上，电视/盒子/手机自适应 IPTV 播放器，支持 M3U/M3U8/TXT、EPG 节目单和频道收藏；需自备直播源，提供标准版与 NoLauncher 版。 |
 | 我的电视                | v1.3.9.8    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/my-tv-0_1.3.9.8.apk) | 🟢    | 无广无购物的电视直播，央视、卫视、地方频道，带直播源库       |
 | OurTV(我们的电视)       | v3.9.5      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/ourTV_3.9.5.apk) | 🔴    | **开发者收到制裁，已停止转播电视信号**                       |
