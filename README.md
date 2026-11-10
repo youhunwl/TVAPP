@@ -102,7 +102,7 @@
 | 饭太硬                  | v9.9.9      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/飯太硬.apk) | 🔴  | 内置饭太硬本地源版本                                         |
 | 云视听快TV              | v3.9.1.2010 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/云视听快TV_3.9.1.apk) | 🟢    | 快手的TV版，去除更新升级无付费内容的老版本，对比新版只是删除了几个付费的栏目！ |
 | 魔音MORIN               | v3.7.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/魔音MORIN-3.7.0去广告激活版.apk) | 🟢    | 音乐播放器、无损音乐下载工具，去广告解锁VIP会员精简版        |
-| 音悦                    | v3.4.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/音悦3.4.0.apk) | 🟢    | 音乐播放器、无损音乐下载工具，支持自定义音乐源               |
+| 音悦                    | v3.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/音悦3.4.1.apk) | 🟢    | 音乐播放器、无损音乐下载工具，支持自定义音乐源               |
 | 茉莉音乐                | v1.0.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/茉莉音乐1.0.2.apk) | 🟢    | 高级版，全网音乐免费听与下载                                 |
 | ES文件浏览器            | v4.4.3.8 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/ES文件浏览器4.4.3.8会员版-辰夕.apk) | 🟢    | 解锁所有付费VIP会员特权、免广告，登录既是永久 VIP            |
 | 淘知学堂TV              | v1.0.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/淘知学堂TV已解锁会员.apk) | 🟢    | 本软件适合学生或家中有学生的安装，解锁高级特权，所有内容无限制播放，足不出户在家就能随时 随地高效学习。 |
