@@ -104,7 +104,7 @@
 | 魔音MORIN               | v3.7.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/魔音MORIN-3.7.0去广告激活版.apk) | 🟢    | 音乐播放器、无损音乐下载工具，去广告解锁VIP会员精简版        |
 | 音悦                    | v3.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/音悦3.4.1.apk) | 🟢    | 音乐播放器、无损音乐下载工具，支持自定义音乐源               |
 | 茉莉音乐                | v1.0.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/茉莉音乐1.0.2.apk) | 🟢    | 高级版，全网音乐免费听与下载                                 |
-| ES文件浏览器            | v4.4.3.8 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/ES文件浏览器4.4.3.8会员版-辰夕.apk) | 🟢    | 解锁所有付费VIP会员特权、免广告，登录既是永久 VIP            |
+| ES文件浏览器            | v4.4.3.9 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/ES文件浏览器4.4.3.9会员版-frolickof.apk) | 🟢    | 解锁所有付费VIP会员特权、免广告，登录既是永久 VIP            |
 | 淘知学堂TV              | v1.0.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/淘知学堂TV已解锁会员.apk) | 🟢    | 本软件适合学生或家中有学生的安装，解锁高级特权，所有内容无限制播放，足不出户在家就能随时 随地高效学习。 |
 | 宝盒TV(FM内置版)        | v5.2.6   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/宝盒TV5.2.6(FM内置版).apk) | 🟢    | 基于Fongmi影视壳子内置开发的宝盒                             |
 | MediaMix(521影视)       | v1.4.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/MediaMix(原521影视)/MediaMix(原521影视)电视版-1.4.8.apk) | 🟢    | 521是基于蜂蜜版修改的空壳应用，已改名为 `MediaMix` 包含电视版和手机版 |
