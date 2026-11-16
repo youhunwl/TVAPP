@@ -6,6 +6,6 @@
 ## 软件下载
 > 由于github限制上传文件大小，请从网盘下载
 
-夸克网盘：https://pan.quark.cn/s/fe82f0c733af
+夸克网盘：https://pan.quark.cn/s/9b183b007d15
 
-UC 网盘：https://drive.uc.cn/s/df2de8f25a4e4?public=1
+UC 网盘：https://drive.uc.cn/s/8dd0f7b170294?public=1
