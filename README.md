@@ -165,6 +165,7 @@
  https://9763.kstore.vip/aowu.json	# 嗷呜线路
  https://android.lushunming.qzz.io/json/index.json	# L佬线路
  https://pastebin.com/raw/gtbKvnE1	# 苹果CMS资源站
+ https://xkykmovie.com/api/tvbox/config	# 星光影库
 
 多仓：
  https://www.iyouhun.com/tv/dc   # 游魂多仓
