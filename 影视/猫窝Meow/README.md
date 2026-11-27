@@ -24,27 +24,23 @@ APK SHA256：`1aa9fa97d2aa2e1955d1bab611936aa9ebd6ca8df63e6c2adca1d6a8b3b82f70`
 
 ## 测试截图
 
-以下均为大屏横屏（1920×1080）实机截图，覆盖主要页面：
+以下均为 Android TV 端 APK 实装运行截图（MuMu 模拟器 TV 形态，2560×1440 横屏）：
 
-| 首页 | 分类 | 详情 |
+| 首页 | 详情 | 搜索 |
 | --- | --- | --- |
-| ![首页](screenshots/01-home.jpg) | ![分类](screenshots/02-category.jpg) | ![详情](screenshots/03-detail.jpg) |
+| ![首页](screenshots/01-home.jpg) | ![详情](screenshots/03-detail.jpg) | ![搜索](screenshots/04-search.jpg) |
 
-| 搜索 | 播放 | 片库 |
+| 历史 | 收藏 | 设置 |
 | --- | --- | --- |
-| ![搜索](screenshots/04-search.jpg) | ![播放](screenshots/10-play.jpg) | ![片库](screenshots/05-library.jpg) |
+| ![历史](screenshots/06-history.jpg) | ![收藏](screenshots/07-favorites.jpg) | ![设置](screenshots/08-settings.jpg) |
 
-| 历史 | 收藏 | 我的 |
-| --- | --- | --- |
-| ![历史](screenshots/06-history.jpg) | ![收藏](screenshots/07-favorites.jpg) | ![我的](screenshots/11-me.jpg) |
-
-| 设置 | AI 助手 | 运行日志 |
-| --- | --- | --- |
-| ![设置](screenshots/08-settings.jpg) | ![AI](screenshots/09-ai.jpg) | ![日志](screenshots/12-logs.jpg) |
+| AI 助手 | 直播播放 |
+| --- | --- |
+| ![AI](screenshots/09-ai.jpg) | ![直播播放](screenshots/10-play.jpg) |
 
 ## 测试信息
 
 - 测试时间：2026-11-27
-- 测试环境：`http://192.168.1.20:30010/app/meow/`（后端 136 站点，health ok）+ Android 模拟器横屏（1920×1080）
-- 测试版本：v1.2.28（versionCode 1228，minSdk 26 / targetSdk 34）
-- 测试内容：覆盖 15 个页面路由（首页、分类、详情、播放、投屏、搜索、我的、历史、直播、片库、离线、收藏、设置、AI、日志），应用正常渲染与交互，无崩溃。
+- 测试设备：MuMu Android 模拟器（TV 形态，2560×1440 横屏），直装 APK 实机运行
+- 测试版本：v1.2.28（versionCode 1228，minSdk 26 / targetSdk 34，与上方下载包同一构建）
+- 测试内容：首页浏览、影片详情、搜索、观看历史、收藏、设置、AI 助手、直播播放（iptv-org 源起播成功）；各页面正常渲染与交互，无崩溃。
