@@ -32,6 +32,7 @@
 | uz影视 | v1.6.76 | [下载](/影视/uz影视/README.md) | 🟢 | 追剧、直播、无广、投屏、免费。 **iOS & Android & Win & Mac** |
 | Kodi | v22.0 | [下载](https://mirrors.aliyun.com/xbmc/snapshots/android/arm/kodi-22.0-Piers_alpha2-armeabi-v7a.apk) | 🟢 | Kodi是一款专业的多媒体影音播放器，可播放本地存储、网络共享及流媒体内容。 [kodi教程](/wiki/kodi.md) |
 | XMBOX | v3.1.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/XMBOX) | 🟢 | 一个操作方便、界面简洁的Android视频播放器盒子，需自行添源，支持TV和手机双平台。 |
+| 猫窝Meow | v1.2.28 | [下载](/影视/猫窝Meow/README.md) | 🟢 | 开源跨端影视客户端，支持点播/直播/弹幕/片库，TV端可直接加载 spider jar 与 JS/PY 扩展源，需自行导入配置 |
 | 全民K歌(MV版)           | v5.9.0.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/全民K歌TV版-5.9.0.1免登录无限制_teyond.apk) | 🟢    | 全民K歌2026TV电视版-官方遗留版本修复-无广告免会员无限制版        |
 | 咪咕爱唱                | v9.9.012    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/咪咕爱唱_9.9.012.apk) | 🟢    | VIP版，登录即是连续包月会员                                  |
 | 家庭KTV                 | v1.16       | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/家庭ktv1.1.6_最新版.apk) | 🟢    | 部分机型扫码点歌提示软件未启动                               |
